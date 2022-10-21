@@ -3,16 +3,16 @@ body {
 }
 
 header {
-	background: #BBBBBB;
-	padding: 20px 0;
+	background-color: dimgray;
+	padding: 10px 0;
 }
 
 
 
 nav {
-	position: absolute;
-	top: 110px;
-	right: 0;
+    position: absolute;
+	top: 60px;
+	right: 100px;
 }
 
 nav li {
@@ -80,7 +80,7 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: url("../img.jpg/bg.jpg");
 	padding: 40px 0;
 }
 
